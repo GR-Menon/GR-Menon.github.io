@@ -1,3 +1,3 @@
 # GBytes
 
-My personal blog / rant site.
+Personal blog site
